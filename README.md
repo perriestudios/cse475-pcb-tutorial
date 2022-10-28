@@ -1,8 +1,8 @@
 # <p align="center"> [CSE/EE 475] PCB Tutorial </p>
 
-This repository contains all the files used for the tutorial in the Embedded Systems Capstone class. The base design was derived from the work of Mike's(MalphasWats) [**hawk**](https://github.com/MalphasWats/hawk) project. Hawk is well documented and highlights most concepts of PCB Design required for this class.
+This repository contains all the files used for the PCB tutorial I taught in the Embedded Systems Capstone class. The base design was derived from the work of Mike's(MalphasWats) [**hawk**](https://github.com/MalphasWats/hawk) project. Hawk is well documented and highlights most concepts of PCB Design required for this class.
 
-I made the following changes were made to the design to ensure a few other useful concepts were also covered:
+I made the following changes to the design to ensure a few other useful concepts were also covered:
 
 - Added a different tactile switch to demonstrate the addition of external libraries, pull-ups
 - Added a 'Builtin_LED' because it is a useful feature to have
